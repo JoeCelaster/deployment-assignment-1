@@ -13,4 +13,3 @@ module.exports = config;
 
 // Log the variables (Optional for testing)
 console.log(config);
-```
